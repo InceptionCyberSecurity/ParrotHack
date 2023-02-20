@@ -1,5 +1,7 @@
-# use Kali linux
-# plug in WiFi adaptor (TP-Link TP-WN722N for example) with monitor mode
+#!/bin/bash
+# use Kali linux; plug in WiFi adaptor (TP-Link TP-WN722N for example) with monitor mode
+
+sudo su
 
 airmon-ng start wlan1
 

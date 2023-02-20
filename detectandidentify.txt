@@ -1,4 +1,7 @@
-In this video you'll learn some Drone basics. To be a good drone security pentester, you will need plenty of practice along with your other studies and research. There are literately dozens of different ways that you can attack a drone and  we just have seen one of them: Wi-Fi. To keep things short and simple, I will not go into detail on things like how to connect an nRF24L01 transceiver to the arduino board, as there are already plenty of examples all over the web, but social and ethical issues. Take this video as a break from technical topic. Don't worry if you don't "catch" all the info at once, try to find little "breadcrums" that led other people to innovation, I'm confident they will lead you too.
+ To be a good drone security pentester, you will need plenty of practice along with your other studies and research.
+
+ There are literately dozens of different ways that you can attack a drone and  we just have seen one of them: Wi-Fi.
+ To keep things short and simple, I will not go into detail on things like how to connect an nRF24L01 transceiver to the arduino board, as there are already plenty of examples all over the web, but social and ethical issues. Take this video as a break from technical topic. Don't worry if you don't "catch" all the info at once, try to find little "breadcrums" that led other people to innovation, I'm confident they will lead you too.
 
 Focus on different methods implemented on Drones to control them, e.g. Bluetooth, Radio (RF), 3G/4G, Satellite, GPS, and Terrain; this way, you'll be able to detect the best "strategy" to run a penetration test.
 

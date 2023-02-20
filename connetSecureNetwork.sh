@@ -1,6 +1,8 @@
-# use Kali linux
-# plug in WiFi adaptor (TP-Link TP-WN722N for example) with monitor mode
+#!/bin/bash
+# use Kali linux; plug in WiFi adaptor (TP-Link TP-WN722N for example) with monitor mode
 # best wifi cards are Alfa AWUS036H USB; Ubiquiti SRC a/b/g Cardbus; Ubuquiti SRX a/b/g ExpressCard; Aircap series USB; MiniPCIe that uses ath9k esp AR92xx and AR93xx (spectral scan)
+
+sudo su
 
 airmon-ng start wlan1
 
