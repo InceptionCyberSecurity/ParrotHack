@@ -1,7 +1,7 @@
 # Drone Hacking Scripts
 A Parrot Bebop drone was handy so we decided to teach our Trainees some WiFi hacking.
 You'll need to install this on Kali Linux. These scripts were tested on a Raspberry Pi 4 B+ 4 GB.
-The WiFi adapter was an ALFA AWUS036ACH but we built an extend3d pair of antennas to mount on a Yagi antenna for more directional control.
+The WiFi adapter was an ALFA AWUS036ACH but we built an extended pair of antennas to mount on a Yagi antenna for more gain and directional control.
 Written by Nathan Jones nathan.jones@arcadeusops.com
 
 # Scripts
