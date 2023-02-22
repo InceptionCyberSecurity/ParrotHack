@@ -6,7 +6,14 @@ Written by Nathan Jones nathan.jones@arcadeusops.com
 
 # Scripts
 connectOpenNetwork.sh is for a WiFi connection that is not password protected.
-connectSecureNetwork.sh is for a WiFi connection that is password protected. We used the rockyou.txtx password file.
+connectSecureNetwork.sh is for a WiFi connection that is password protected. We used the rockyou.txt password file.
+
+## Ethical Notice
+The original code is written by ArcadeusOPS, who are not responsible for misuse of this data gathering tool. Do not use these scripts to navigate websites/devices that take part in any activity that is identified as illegal under the laws and regulations of your government. STAY LEGAL !!
+
+## License
+MIT License
+Copyright (c) ArcadeusOPS
 
 # To Do
 Use pythonscan.sh to agressiveley scan target drone
