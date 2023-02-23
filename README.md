@@ -19,3 +19,6 @@ Copyright (c) ArcadeusOPS
 Use pythonscan.sh to agressiveley scan target drone
 hping3 Flood attack script over WiFi on http connection?
 The .txt files are for future scripts to detetc, identify and gain a shell on target drone.
+
+# Bugs
+Send issues to info@arcadeusops.com stating nature of issue. A screenshot will help too. Thanks.
