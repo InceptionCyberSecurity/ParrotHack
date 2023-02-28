@@ -23,3 +23,6 @@ The .txt files are for future scripts to detetc, identify and gain a shell on ta
 
 # Bugs
 Send issues to info@arcadeusops.com stating nature of issue. A screenshot will help too. Thanks.
+
+# CPD
+Part of EC-Council ECE/CPD Credits
