@@ -1,6 +1,6 @@
 #!/bin/bash
 # use Kali linux; plug in WiFi adaptor (TP-Link TP-WN722N for example) with monitor mode
-# wlan1 is the name of your wiFi adaptor. Use ifconfig to check this.
+# In this example, wlan1 is the name of your wiFi adaptor. Use ifconfig to check this.
 
 sudo su
 
