@@ -19,4 +19,4 @@ airereplay-ng -0 0 -a "bssid" -c "Station" wlan1mon # deauth attack and auto ins
 
 # connect with phone for full control. Use drone flight app eg FreeFlight Pro or Freeflight Mini available in Google Play/AppleStore.
 
-# mitigate with strong password
+# mitigate with strong password and obscure WIFi name
