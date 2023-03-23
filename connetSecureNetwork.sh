@@ -21,4 +21,4 @@ aircrack-ng -w /root/dictionaries.rockyou.txt /root/Desktopdrone01.cap
 
  connect with phone for full control. Use drone flight app eg FreeFlight Pro or Freeflight Mini available in Google Play/AppleStore.
 
-# mitigate with strong password
+# mitigate with strong password and obscure SSID
