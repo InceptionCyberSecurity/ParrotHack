@@ -17,7 +17,7 @@ MIT License
 Copyright (c) ArcadeusOPS
 
 # To Do
-Use pythonscan.sh to agressiveley scan target drone <br/>
+Use pythonscan.sh to agressiveley scan target drone and auto deauth <br/>
 hping3 Flood attack script over WiFi on http connection? <br/>
 The .txt files are for future scripts to detetc, identify and gain a shell on target drone <br/>
 
@@ -25,4 +25,4 @@ The .txt files are for future scripts to detetc, identify and gain a shell on ta
 Send issues to info@arcadeusops.com stating nature of issue. A screenshot will help too. Thanks.
 
 # CPD
-Part of EC-Council ECE/CPD Credits 
+Part of EC-Council ECE/CPD Credits
